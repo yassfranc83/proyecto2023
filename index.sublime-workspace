@@ -1,0 +1,841 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"col-md-10"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ra",
+				"rotateY()"
+			],
+			[
+				"rota",
+				"rotateY()"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"rot",
+				"rotateY()"
+			],
+			[
+				"jus",
+				"justify-content-center"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"col-",
+				"col-md-8"
+			],
+			[
+				"col-md",
+				"col-md-5"
+			],
+			[
+				"exa",
+				"exampleFormControlTextarea1"
+			],
+			[
+				"ex",
+				"exampleFormControlTextarea1"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"mag",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"bg",
+				"bg-dark"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"bt",
+				"bg-light"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"magr",
+				"margin-top"
+			],
+			[
+				"fl",
+				"inline-flex"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-justify"
+			],
+			[
+				"tet",
+				"text-justify"
+			],
+			[
+				"Text",
+				"text-white"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"TEXT",
+				"text-center"
+			],
+			[
+				"TEX",
+				"text-center"
+			],
+			[
+				"m",
+				"mt-5"
+			],
+			[
+				"mt",
+				"mt-5"
+			],
+			[
+				"cona",
+				"container-fluid"
+			],
+			[
+				"he",
+				"hidden-xs"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"ml",
+				"ml-5"
+			],
+			[
+				"sty",
+				"sticky-top"
+			],
+			[
+				"st",
+				"sticky-top"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"list-g",
+				"list-group-item"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"li",
+				"list-group-item"
+			],
+			[
+				"coll",
+				"collapse1"
+			],
+			[
+				"colla",
+				"collapse"
+			],
+			[
+				"media",
+				"media"
+			],
+			[
+				"cli",
+				"cliente"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"card",
+				"card-primary"
+			],
+			[
+				"de-",
+				"d-flex-aline"
+			],
+			[
+				"hid",
+				"hidden-sm"
+			],
+			[
+				"hidden",
+				"hidden-xs"
+			],
+			[
+				"contai",
+				"container-fluid"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"d-",
+				"display-3"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"backa",
+				"background-image"
+			],
+			[
+				"w",
+				"w-100"
+			],
+			[
+				"conte",
+				"justify-content-center"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"im",
+				"img-fluid"
+			],
+			[
+				"imag",
+				"image"
+			],
+			[
+				"res",
+				"Responsive"
+			],
+			[
+				"COL",
+				"col-md-3"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"mr",
+				"mr-3"
+			],
+			[
+				"lin",
+				"card-link"
+			],
+			[
+				"C",
+				"Clientes"
+			],
+			[
+				"bo",
+				"button"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"MR",
+				"mr-auto"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"r",
+				"r-a\tright: auto;"
+			],
+			[
+				"Cop",
+				"Corporación"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"cen",
+				"justify-content-center"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"le",
+				"bdlen-a\tborder-length: auto;"
+			],
+			[
+				"s",
+				"pos-s\tposition: static;"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "procedimiento de reclamo IFIM.html",
+			"settings":
+			{
+				"buffer_size": 20065,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Nuestros Clientes.html",
+			"settings":
+			{
+				"buffer_size": 14154,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Cobertura.html",
+			"settings":
+			{
+				"buffer_size": 7869,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"CONTRO",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist"
+	],
+	"file_history":
+	[
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/css/estilo.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/TCEA.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Nuestros Clientes.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Producto Financiero.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/procedimiento de reclamo IFIM.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/quejas y sugerencias.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/css/estilosEmail.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Cobertura.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Contacto.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/index.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/ejem calculo de int.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Galerias.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Mision-vision-objetivos.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/css/estilo3D.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/css/estilo2.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Antecedentes.html",
+		"/C/Users/FSirias/Downloads/default.htm",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Organigrama.html",
+		"/C/xampp/htdocs/ProdesaVrs2/contacto.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/css/estilo3.css",
+		"/C/xampp/htdocs/ProdesaVrs2/css/creative.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/css/creativ.min.css",
+		"/D/Proyecto Pagina web prodesa/pagina Prueba1/bootstrap-4.0.0-dist/quejas y sugerencias.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Estados Financieros.html",
+		"/C/xampp/htdocs/ProdesaVrs2/organigrama.html",
+		"/C/xampp/htdocs/ProdesaVrs2/css/creative.min.css",
+		"/C/xampp/htdocs/ProdesaVrs2/modelos.html",
+		"/C/xampp/htdocs/ProdesaVrs2/tca.html",
+		"/C/xampp/htdocs/ProdesaVrs2/index.html",
+		"/C/xampp/htdocs/ProdesaVrs2/vendor/magnific-popup/magnific-popup.css",
+		"/C/xampp/htdocs/ProdesaVrs2/vendor/font-awesome/css/font-awesome.min.css",
+		"/C/xampp/htdocs/ProdesaVrs2/vendor/bootstrap/css/bootstrap.min.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/css/creative.min.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Modelo de contratos.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Preguntas Frecuentes.html",
+		"/C/Users/FSirias/Downloads/Formulario de Contacto/Formulario de Contacto/index.html",
+		"/C/Users/FSirias/Downloads/Formulario de Contacto/Formulario de Contacto/css/estilosEmail.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/css/estiloModelo.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/procedimiento de reclamo IFIME",
+		"/C/Users/FSirias/Downloads/startbootstrap-simple-sidebar-gh-pages/startbootstrap-simple-sidebar-gh-pages/index2.html",
+		"/C/Users/FSirias/Downloads/startbootstrap-simple-sidebar-gh-pages/startbootstrap-simple-sidebar-gh-pages/css/simple-sidebar.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Ejemp de calculo.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Ejemp calc int",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/Ley 769.html",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/font/css/open-iconic.css",
+		"/E/pagina Prueba1/bootstrap-4.0.0-dist/JavaS.js",
+		"/E/pagina web prodesa/bootstrap-4.0.0-dist/Galerias.html",
+		"/E/pagina web prodesa/bootstrap-4.0.0-dist/index.html",
+		"/C/Users/FSirias/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1F618D",
+			"267871",
+			"500px",
+			"#17202A",
+			"73C6B6",
+			"215px",
+			"50px",
+			"0px",
+			";\">",
+			"=\"\"",
+			"   \n",
+			"exampleModal",
+			"}\n",
+			">\n",
+			"loan",
+			"slider20",
+			";\">",
+			"3px",
+			"599D9C",
+			"center",
+			"html",
+			"*=\"\"]',",
+			">\n",
+			"pago",
+			"0171",
+			"html",
+			";\"",
+			"B08493",
+			"> ",
+			"<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"css/bootstrap.css\">\n    <link rel=\"stylesheet\" href=\"css/estilo.css\">\n    <link rel=\"stylesheet\" href=\"fonts.css\">\n    <link rel=\"stylesheet\" href=\"css/estilo3.css\">\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css\" crossorigin=\"anonymous\">\n    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js\" integrity=\"sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl\" crossorigin=\"anonymous\"></script>\n\n    <title>Página Web Prodesa</title>\n<style>\n  .org{\n    height: 30vh;\n        width: 100%;\n  }\n</style>\n\n  </head>\n  <body>\n    <!-- imagen principal -->\n    <section>\n       <img src=\"img/normas.jpg\"  class=\"org img-responsive\"  alt=\"Responsive image\" >\n    </section> \n    <!-- fin de imagen imagen principal -->\n\n\n  <!-- Incio del navegador -->\n    <nav class=\"navbar navbar-dark bg-dark navbar-expand-md sticky-top\">\n      <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarTogglerDemo01\" aria-controls=\"navbarTogglerDemo01\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n    <span class=\"navbar-toggler-icon\"></span>\n  </button>\n      <a class=\"navbar-brand\" href=\"index.html\">\n        <img src=\"img/logo.jpg\" width=\"40\" height=\"40\" class=\"d-inline-block align-top\" alt=\"Corporación Prodesa\">\n        Corp. Prodesa\n      </a>\n      <div class=\"collapse navbar-collapse\" id=\"navbarTogglerDemo01\"> \n      <div class=\"navbar-nav mr-auto ml-auto text-center\">\n      <a class=\"nav-item nav-link\" href=\"index.html\"><span class=\"icon-home\"></span> Inicio</a>\n      <li class=\" nav-item dropdown\">\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"icon-question\"></span>\n          Quienes Somos\n        </a>\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n          <a class=\"dropdown-item\" href=\"Mision-vision-objetivos.html\">Misión, Visión, Objetivos</a>\n          <a class=\"dropdown-item\" href=\"Antecedentes.html\">Antecedentes</a>\n          <a class=\"dropdown-item\" href=\"#\">Organigrama/Consejo Admin</a>\n        </div>\n      </li>\n       <li class=\"nav-item dropdown\">\n        <a class=\"nav-link dropdown-toggle active\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"icon-bookmark\"></span>\n          Aspecto Legal\n        </a>\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n          <a class=\"dropdown-item\" href=\"docs/Ley No. 769, Ley de Fomento y Regulacion de Microfinanzas.pdf\">Ley 769</a>\n          <a class=\"dropdown-item\" href=\"#\">TCEA</a>\n          <a class=\"dropdown-item\" href=\"ejem calculo de int.html\">Ejemp Calculo de Int.</a>\n          <a class=\"dropdown-item\" href=\"procedimiento de reclamo IFIM.html\">Procedimiento de Reclamo</a>\n          <a class=\"dropdown-item active\" href=\"#\">Modelo de Contratos</a>\n          <a class=\"dropdown-item\" href=\"#\">Estados Financieros</a>\n        </div>\n      </li>\n      <a class=\"nav-item nav-link \" href=\"Cobertura.html\"><span class=\"icon-sphere\"></span> Cobertura</a>\n      <a class=\"nav-item nav-link\" href=\"#\"><span class=\"icon-folder-open\"></span> Productos Financieros</a>\n      </div>\n      <div class=\"d-flex flex-row justify-content-center\">\n        <a href=\"https://es-la.facebook.com/pg/Corporacion-Prodesa-Suc-Nicaragua-473265696073039/about/?ref=page_internal\" class=\"btn btn-primary mr-2\">F</a>\n        <a href=\"\" class=\"btn btn-danger\">Y</a>\n      </div>\n    </div>\n    </nav>\n    <!-- Incio del navegador -->\n  \n<section class=\"container-fluid p-5\" style=\"background-color: #FAF3DD\">\n  <div class=\"container \" style=\"background: ;\">\n     <h2 class=\"text-center\" style=\"color: #935116;\">FORMATO PARA EL REPORTE DE LA TASA DE COSTO EFECTIVO ANUAL</h2>\n  </div>   \n\n <section class=\"sec\">\n  <div class=\"container-fluid\" style=\"background-color: #FAF3DD\">\n    <div class=\"container\" style=\"background: #AEB6BF; padding-bottom: 50px;\" >\n      <div class=\"row m-4\">\n        <div class=\"col-lg-3 col-md-3 col-sm-6 col-xs-12\">\n          <div class=\"imageBox\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3 style=\"font-size: 23px;\">Modelos de Contrato</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"#\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n          <div class=\"container\">\n            <p style=\"color: black;\"><b>MUTUO MERCANTIL CON GARANTÍA PRENDARIA SIN DESPLAZAMIENTO Y  CON FIANZA SOLIDARIA.</b></p>\n          </div>\n        </div>\n        <div class=\"col-lg-3 col-md-3 col-sm-6 col-xs-12\">\n          <div class=\"imageBox\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3 style=\"font-size: 23px;\">Modelos de Contrato</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n          <div class=\"container\">\n            <p style=\"color: black;\"><b>MUTUO MERCANTIL CON FIANZA SOLIDARIA.</b></p>\n          </div>\n        </div>\n        <div class=\"col-lg-3 col-md-3 col-sm-6 col-xs-12\">\n          <div class=\"imageBox\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3 style=\"font-size: 23px;\">Modelos de Contrato</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n          <div class=\"container\">\n            <p style=\"color: black;\"><b>MUTUO MERCANTIL.</b></p>\n          </div>\n        </div>\n        <div class=\"col-lg-3 col-md-3 col-sm-6 col-xs-12\">\n          <div class=\"imageBox\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3 style=\"font-size: 23px;\">Modelos de Contrato</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n          <div class=\"container\">\n            <p style=\"color: black;\"><b>MUTUO MERCANTIL CON GARANTÍA  DE PRENDA  AGRARIA Y FIANZA</b></p>\n          </div>\n        </div>\n      </div>\n\n\n      <div class=\"row m-4 text-center\">\n        <div class=\"col-lg-3 col-md-3 col-sm-6 col-xs-12\">\n          <div class=\"imageBox text-center\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3 style=\"font-size: 23px;\">Modelos de Contrato</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n          <div class=\"container\">\n            <p style=\"color: black;\"><b>MUTUO CON INTERES CON CESION DE DERECHOS EN GARANTIA.</b></p>\n          </div>\n        </div>\n        <div class=\"col-lg-3 col-md-3 col-sm-6 col-xs-12\">\n          <div class=\"imageBox text-center\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3 style=\"font-size: 23px;\">Modelos de Contrato</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n          <div class=\"container\">\n            <p style=\"color: black;\"><b>MUTUO MERCANTIL CON GARANTÍA DE BIEN  INMUEBLE Y CON FIANZA SOLIDARIA. </b></p>\n          </div>\n        </div>\n      </div>\n\n\n\n\n      <div class=\"row ml-5\">\n         <div class=\"col-lg-4 col-md-4 col-sm-6 col-xs-12\">\n          <div class=\"imageBoox\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3>Anexo 4 a TCEA</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"#\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n        </div>\n         <div class=\"col-lg-4 col-md-4 col-sm-6 col-xs-12\">\n          <div class=\"imageBoox\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3>Anexo 5 a TCEA</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n        </div>\n         <div class=\"col-lg-4 col-md-4 col-sm-6 col-xs-12\">\n          <div class=\"imageBoox\">\n            <img src=\"img/pdf.png\" \" alt=\"img-responsive\">\n            <h3>Anexo 6 a TCEA</h3>\n            <ul>\n              <li><a href=\"docs/TCEA de las IFIM CORP PRODESA VF.pdf\"><span class=\"icon-eye\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://www.dropbox.com/es/login?&_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|e&_ad=243947726341|1t1|c&gclid=EAIaIQobChMI-tH6mu352gIVVy-BCh0buQ9xEAAYASABEgKyoPD_BwE\"><span class=\"icon-dropbox\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"\"><span class=\"icon-download2\" aria-hidden=\"true\"></span></a></li>\n              <li><a href=\"https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin\"><span class=\"icon-google-drive\" aria-hidden=\"true\"></span></a></li>\n            </ul>\n          </div>\n        </div>\n      </div>\n\n    </div>\n  </div>\n </section>\n</section>\n\n\n\n\n\n\n\n\n    <!--Pie de pagina-->\n   <footer class=\"mu\">\n    <div class=\"w-15 p-1\" style=\"background-color: #F2F541;\"></div>\n        <div class=\"container-fluid text-white text-center responsive\">\n          Copyright&copy 2018 Corporacion Prodesa. Derechos reservados.\n        </div>\n        <div class=\"w-15 p-1\" style=\"background-color: #FB0C08;\"></div>\n  </footer>\n    <!--Fin de Pie de pagina-->\n\n\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\" integrity=\"sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN\" crossorigin=\"anonymous\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js\" integrity=\"sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q\" crossorigin=\"anonymous\"></script>\n    <script src=\"js/jquery.js\"></script>\n    <script src=\"js/bootstrap.js\"></script>\n  </body>\n</html>",
+			".</",
+			"center",
+			"Teléfeno",
+			"center",
+			"headingThree",
+			".</",
+			"150",
+			"center",
+			"LOS",
+			">\n",
+			"4",
+			"class",
+			" <div class=\"media\">\n              <div class=\"media-body\">\n                <h4 class=\"text-center mb-4\">V. <ins> Formas de Calculo</ins></h4>\n                <p class=\"ml-5\">Taza de cambio inicial: <mark>28.5380</mark></p>\n                <p class=\"\"> <b>a)</b> La Tasa de cambio inicial se multiplica por el 5% anual la que corresponde a la devaluación por Mantenimiento de Valor estipulado en la Ley 732:<p class=\"ml-5\">28.5380 X 5% = 1.4269</p></p>\n                <p class=\"mt-3\"> <b>b)</b> El resultado se divide entre 12 que son los meses que trae el año:  </p><span><p class=\"text-center\">1.4269 / 12 = 0.118908333</p></span>\n                <p class=\"mt-3\"><b>c)</b> El resultado de la división anterior se divide entre 30, para sacar el factor diario:</p> <span><p class=\"text-center\">0.118908333 / 30 = 0.003963611</p></span>\n                <p class=\"mt-3\"><b>d)</b> El resultado anterior se multiplica por la cantidad de días transcurridos desde la fecha de desembolso hasta la fecha del primer pago:</p> <span><p class=\"container\">Supongamos que el crédito se desembolsa el 10 de junio del 2016 y el cliente solicita fechas de pago los 17 de cada mes, por lo que tocaría pago el  17/07/2016, del 10/06/2016 al 17/07/2016 transcurren 37 días</p><p class=\"text-center\">0.003963611 x 37 días = 0.146653611</p></span>\n                <p class=\"mt-3\"> <b>e)</b> El resultado se suma a la tasa de Cambio inicial:  </p><span><p class=\"ml-5\">28.5380 + 0.146653611 = 28.6846</p></span>\n              </div>\n            </div>",
+			"Descripción",
+			"=\"\"><",
+			"center",
+			"<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"css/bootstrap.css\">\n    <link rel=\"stylesheet\" href=\"css/estilo.css\">\n    <link rel=\"stylesheet\" href=\"fonts.css\">\n\n\n\n    <title>Página Web Prodesa</title>\n<style>\n  .org{\n    height: 50vh;\n        width: 100%;\n  }\n</style>\n\n  </head>\n  <body>\n    <!-- imagen principal -->\n    <section>\n       <img src=\"img/economia3.jpg\" class=\"org img-responsive\"  alt=\"Responsive image\" >\n    </section> \n    <!-- fin de imagen imagen principal -->\n\n\n  <!-- Incio del navegador -->\n    <nav class=\"navbar navbar-dark bg-dark navbar-expand-md sticky-top\">\n      <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarTogglerDemo01\" aria-controls=\"navbarTogglerDemo01\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n    <span class=\"navbar-toggler-icon\"></span>\n  </button>\n      <a class=\"navbar-brand\" href=\"index.html\">\n        <img src=\"img/logo.jpg\" width=\"40\" height=\"40\" class=\"d-inline-block align-top\" alt=\"Corporación Prodesa\">\n        Corp. Prodesa\n      </a>\n      <div class=\"collapse navbar-collapse\" id=\"navbarTogglerDemo01\"> \n      <div class=\"navbar-nav mr-auto ml-auto text-center\">\n      <a class=\"nav-item nav-link\" href=\"index.html\"><span class=\"icon-home\"></span> Inicio</a>\n      <li class=\" nav-item dropdown\">\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"icon-question\"></span>\n          Quienes Somos\n        </a>\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n          <a class=\"dropdown-item\" href=\"Mision-vision-objetivos.html\">Misión, Visión, Objetivos</a>\n          <a class=\"dropdown-item\" href=\"Antecedentes.html\">Antecedentes</a>\n          <a class=\"dropdown-item\" href=\"#\">Organigrama/Consejo Admin</a>\n        </div>\n      </li>\n       <li class=\"nav-item dropdown\">\n        <a class=\"nav-link dropdown-toggle active\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"icon-bookmark\"></span>\n          Aspecto Legal\n        </a>\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n          <a class=\"dropdown-item\" href=\"docs/Ley No. 769, Ley de Fomento y Regulacion de Microfinanzas.pdf\">Ley 769</a>\n          <a class=\"dropdown-item\" href=\"#\">TCEA</a>\n          <a class=\"dropdown-item active\" href=\"#\">Ejemp Calculo de Int.</a>\n          <a class=\"dropdown-item\" href=\"#\">Procedimiento de Reclamo</a>\n          <a class=\"dropdown-item\" href=\"#\">Modelo de Contratos</a>\n          <a class=\"dropdown-item\" href=\"#\">Estados Financieros</a>\n        </div>\n      </li>\n      <a class=\"nav-item nav-link \" href=\"Cobertura.html\"><span class=\"icon-sphere\"></span> Cobertura</a>\n      <a class=\"nav-item nav-link\" href=\"#\"><span class=\"icon-folder-open\"></span> Productos Financieros</a>\n      </div>\n      <div class=\"d-flex flex-row justify-content-center\">\n        <a href=\"https://es-la.facebook.com/pg/Corporacion-Prodesa-Suc-Nicaragua-473265696073039/about/?ref=page_internal\" class=\"btn btn-primary mr-2\">F</a>\n        <a href=\"\" class=\"btn btn-danger\">Y</a>\n      </div>\n    </div>\n    </nav>\n    <!-- Fin del navegador -->\n  \n\n\n\n      <!-- Inicio del contenido de la pagina -->\n        <div class=\"container-fluid\">\n          <br>\n          <div class=\"col-md-8\">\n            <div class=\"media\">\n              <div class=\"media-left \">\n                <a href=\"\"><img class=\"mt-4\" src=\"img/conami.png\" style=\"border: 1px solid; width: 15vh;\" alt=\"img-responsive\"></a> \n              </div> \n              <div class=\"media-body\">\n                <h4 class=\"text-center\">Conceptos</h4>\n                <p class=\"text-justify ml-2\"> <b>CONAMI:</b> Comisión Nacional de Microfinanzas, órgano rector de las instituciones de microfinanzas según su Ley creadora, Ley 769, ?Ley de Fomento y             Regulación de las Microfinanzas?, publicada en La Gaceta, Diario Oficial N°128 del 11 de julio del 2011.</p>\n              </div>\n            </div>\n\n            <div class=\"media\">\n              <div class=\"media-left\">\n                <a href=\"\"><img class=\"mt-1\" src=\"img/client.jpg\" style=\"border: 1px solid; width: 15vh;\" alt=\"img-responsive\"></a> \n              </div> \n              <div class=\"media-body\">\n                <p class=\"text-justify ml-2\"> <b>CLIENTE:</b> Persona natural o jurídica con quien la Corporación PRODESA mantiene una relación comercial originada por la celebración de un contrato, o a quien la institución brinda información previa la celebración de un contrato.</p>\n              </div>\n            </div>\n\n            <div class=\"media\">\n              \n              <div class=\"media-body\">\n                <p style=\"margin-left: 130px;\"><b>DÍAS:</b><span class=\"icon-clipboard ml-2\"></span>Días Calendarios.</p>\n              </div>\n            </div>\n            <br>\n            <div class=\"media\">\n              <div class=\"media-body\">\n                <h4 class=\"text-center\">Consideraciones</h4>\n                <p class=\"text-center ml-2\"> <b>a)</b> Los importes que se muestran en el documento son para ilustración de los clientes de Corporación PRODESA.</p>\n              </div>\n            </div>\n\n          </div>\n        </div>\n      <!-- Fin del contenido de la pagina -->\n\n\n\n\n\n    <!-- Inicio de Aside Sidebar -->\n           <!--<aside class=\"col-md-3 hidden-xs hidden-sm\">\n            <h4>Categorias</h4>\n             <div class=\"list-group\">\n               <a href=\"\" class=\"list-group-item active\">Conceptos</a>\n               <a href=\"\" class=\"list-group-item\">Consideraciones</a>\n               <a href=\"\" class=\"list-group-item\">Datos Referenciales para el desarrollo del ejemplo</a>\n               <a href=\"\" class=\"list-group-item\">Descriptivo</a>\n               <a href=\"\" class=\"list-group-item\">Formas de calculo</a>\n               <a href=\"\" class=\"list-group-item\">Mantenimiento de valor proyectado</a>\n               <a href=\"\" class=\"list-group-item\">Calculo de interés</a>\n             </div>\n\n             <h4>Articulo Reciente</h4>\n             <a href=\"\" class=\"list-group-item\">\n               <h4 class=\"list-group-item-heading\">Lorem ipsum dolor sit amet.</h4>\n               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus cupiditate enim aliquam. Provident mollitia culpa voluptatem, porro aspernatur aliquam cupiditate quidem. Temporibus esse blanditiis, facilis sapiente accusamus nam similique, et.</p>\n             </a>\n              <a href=\"\" class=\"list-group-item\">\n               <h4 class=\"list-group-item-heading\">Lorem ipsum dolor sit amet.</h4>\n               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus cupiditate enim aliquam. Provident mollitia culpa voluptatem, porro aspernatur aliquam cupiditate quidem. Temporibus esse blanditiis, facilis sapiente accusamus nam similique, et.</p>\n             </a>\n              <a href=\"\" class=\"list-group-item\">\n               <h4 class=\"list-group-item-heading\">Lorem ipsum dolor sit amet.</h4>\n               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus cupiditate enim aliquam. Provident mollitia culpa voluptatem, porro aspernatur aliquam cupiditate quidem. Temporibus esse blanditiis, facilis sapiente accusamus nam similique, et.</p>\n             </a>\n          </aside> -->          \n     <!-- Fin de Aside Sidebar -->\n\n\n\n\n    <!--Pie de pagina-->\n   <footer class=\"mu\">\n    <div class=\"w-15 p-1\" style=\"background-color: #F2F541;\"></div>\n        <div class=\"container-fluid text-white text-center responsive\">\n          Copyright&copy 2018 Corporacion Prodesa. Derechos reservados.\n        </div>\n        <div class=\"w-15 p-1\" style=\"background-color: #FB0C08;\"></div>\n  </footer>\n    <!--Fin de Pie de pagina-->\n\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\" integrity=\"sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN\" crossorigin=\"anonymous\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js\" integrity=\"sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q\" crossorigin=\"anonymous\"></script>\n    <script src=\"js/jquery.js\"></script>\n    <script src=\"js/bootstrap.js\"></script>\n  </body>\n</html>",
+			"6",
+			"Responsive",
+			"center",
+			";\"",
+			"0px",
+			"camera",
+			";\">",
+			"FB6C03",
+			"center",
+			"22",
+			"300",
+			"right",
+			"3x",
+			"E0E7E6",
+			"5",
+			"LAVENDER",
+			"\n    ",
+			"15",
+			"info",
+			"Prodesa",
+			"PRODESA",
+			"Prodesa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "procedimiento de reclamo IFIM.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17634,
+								17634
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Nuestros Clientes.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9884,
+								9884
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2907.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Cobertura.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5334,
+								5334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 61.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

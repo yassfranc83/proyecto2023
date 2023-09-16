@@ -1,0 +1,195 @@
+  
+   .dp
+{
+  background-color:rgba(0, 0, 0, 1);
+  width:200px;
+  
+
+}
+.dp li
+{
+  padding: 5px;
+}
+
+.logo
+{
+  height:12%;
+  width: 12%;
+  float: left;
+  margin: 1%;
+}
+.blue
+{
+  background-color: #1565c0 ;
+  color :#fff;
+  font-family: sans-serif;  
+}
+.blu
+{
+  background-color: #0d47a1 ;
+}
+
+   header.mastheader
+{
+    background-position:center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+}
+    
+    header.mastheader hr
+    {
+        margin-top:30px;margin-bottom:50px
+    }
+    header.mastheader h1
+    {
+        font-size:2rem
+    }header.mastheader p
+    {
+        font-weight:500
+    }
+    @media (min-width:768px)
+    {
+        header.mastheader p
+        {
+            font-size:1.15rem
+        }
+    }
+    @media (min-width:992px)
+    {
+        header.mastheader
+        {
+            height:100vh;min-height:650px;padding-top:0;padding-bottom:0
+        }
+        header.mastheader h1
+        {
+            font-size:3rem
+        }
+    }
+    @media (min-width:1200px)
+    {
+        header.mastheader h1
+        {
+            font-size:4rem
+        }
+
+        ul.miembros > li
+        {
+            height: 100px;
+            margin-top: 10px;
+            font-family: sans-serif;
+        }
+    }
+    .junt
+    {
+        padding-top: 20%;
+    }
+    
+    .circle
+    {
+        max-width: 60px;
+        margin-right: 5px;
+    }
+    ul.miembros > li
+    {
+        height: 80px;
+        margin-top: 15px;
+    }
+    ul.miembros > li > p
+    {
+        text-align: left;
+        font-family: sans-serif;
+    }
+
+    @media (max-width : 993px)
+    {
+        .junta
+    {
+        padding-top: 10px;;
+    }
+
+    ul.contact > li 
+    {
+        height: 200px;
+        margin-top: 15px;
+        font-family: sans-serif;
+    }
+   
+    ul.miembros > li
+    {
+        height: 150px;
+        margin-top: 10px;
+    }
+
+    #about 
+    {
+        
+        background: #CACFD2;
+    }
+    .junt
+    {
+       
+    }
+    .tca > li > a
+    {
+        float: right;
+        font-size: 10px;
+    }
+   
+    }
+
+
+   p{
+    color: black;
+   }
+
+    }
+    .tca
+    {
+        color: #212529;
+        font-family: sans-serif;
+    }
+
+     .tca > li > a
+    {
+        float: right;
+    }
+
+    .tca > li > a > span {
+        color: red;
+        display: block;
+        line-height: 70px;
+        font-size: 45px;
+        position: relative;
+       
+    }
+
+
+.ejemplo
+    {
+        font-family: sans-serif;
+    }
+    .medios
+    {
+        color:#fff;
+    }
+
+
+    .cir
+    {
+        max-width: 90px;
+        margin-right: 5px;
+    }
+    .cnt
+    {
+        padding-top: 20%;
+    }
+
+.organi{
+    background: #005AA7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
